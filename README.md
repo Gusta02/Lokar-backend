@@ -75,7 +75,18 @@ pip install -r requirements.txt
 ---
 
 4. **Rodar a aplicação**
-5. **Acessar no navegador**
+
+```bash
+uvicorn app.main:app --reload
+```
+
+--
+
+6. **Acessar no navegador**
+
+
+--
+
 ## 🗺 Roadmap Inicial (Sprints)
 
 **Sprint 1**
@@ -107,3 +118,4 @@ pip install -r requirements.txt
 ## 🤝 Contribuição
 Contribuições são bem-vindas!
 Abra uma issue ou envie um pull request.
+
