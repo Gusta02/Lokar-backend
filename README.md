@@ -84,6 +84,9 @@ uvicorn app.main:app --reload
 
 6. **Acessar no navegador**
 
+Documentação Swagger:[Doc](http://127.0.0.1:8000/docs)
+
+Documentação Redoc: [Doc](http://127.0.0.1:8000/redoc)
 
 --
 
